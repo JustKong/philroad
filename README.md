@@ -9,3 +9,6 @@ c) it gets into an infinite loop.
 Upon reaching any of these conclusions, it'll print out the path that it followed.
 
 It follows xkcd's methodology, where we ignore all links that appear in parenthesis and in italics.
+
+
+Created using Django.
